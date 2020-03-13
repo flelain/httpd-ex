@@ -105,7 +105,7 @@
             "from": {
               "kind": "ImageStreamTag",
               "namespace": "${NAMESPACE}",
-              "name": "nodejs:${NODEJS_VERSION}"
+              "name": "nodejs-12-rhel7:latest"
             },
             "env": [
               {
